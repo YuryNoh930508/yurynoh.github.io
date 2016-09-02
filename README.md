@@ -1,2 +1,2 @@
 # Project
-School Project Library for Open Source class
+School Project for Open Source
